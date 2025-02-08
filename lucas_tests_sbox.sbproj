@@ -1,7 +1,7 @@
 {
   "Title": "Lucas Tests SBox",
   "Type": "game",
-  "Org": "local",
+  "Org": "jazzy",
   "Ident": "lucas_tests_sbox",
   "Schema": 1,
   "IncludeSourceFiles": false,
